@@ -1386,6 +1386,11 @@ Druhá věta § 72 představuje **ochranu držitele**: i když podle počátečn
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1929/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ED9315A3981ABE0C12589BA002C1F73?openDocument) — 20. 12. 2022, kat. A
+  > „Ve smyslu § 73 zákona č. 91/2012 Sb. (ve znění pozdějších předpisů) se otázky vzniku, trvání a zániku svěřenského fondu a jeho správy primárně posuzují podle právního řádu určeného zakladatelem ve statutu svěřenského fondu, popřípadě v jiné listině plnící obdobnou funkci vyžadované zakladatelem určeným právním řádem. Pouze tehdy, neurčí-li zakladatel, jakým právem se svěřenský fond řídí, anebo nelze-li takového právního řádu použít [např. proto, že takový institut neupravuje, nebo proto, že by se účinky jeho použití zjevně příčily veřejnému pořádku, anebo proto, že by se to jevilo nepřiměřeným a odporujícím rozumnému a spravedlivému uspořádání vztahu účastníků (§ 4 a § 24 odst. 1 uvedeného zákona)], se použije takový právní řád, s nímž svěřenský fond nejúžeji souvisí. Při posouzení, s jakým právním řádem svěřenský fond nejúžeji souvisí, vezme soud v úvahu zejména kritéria…"
+
 #### Otevření českého práva trustům — § 73 jako vstupní brána
 
 § 73 byl klíčovou novelou českého MPS — umožnil **otevření systému** anglosaským trustům a obdobným fiduciárním zařízením. Před ZMPS 2012 česká doktrína trustům odpírala uznání, protože český právní řád institut neznal. Občanský zákoník 2014 (§§ 1448–1474 OZ) institut svěřenského fondu zavedl, čímž se otevřel prostor pro kolizní řešení.

@@ -620,6 +620,15 @@ Pro občany členských států EU a států EHS (Norsko, Island, Lichtenštejns
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 594/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF81E7FAE8A09D57C125842300181130?openDocument) — 23. 4. 2019, kat. A
+  > „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb"
+- *NS* [29 Cdo 5689/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/76273E13CCE2FDF2C125838900220EA1?openDocument) — 31. 10. 2018, kat. A
+  > „Má-li se subjekt, po kterém by jinak bylo možno požadovat (postupem podle § 11 zákona č. 91/2012 Sb.) složení zálohy při podání žaloby, stát „novým“ žalobcem až v důsledku rozhodnutí soudu o návrhu původního žalobce dle § 107a o. s. ř., může se postup podle § 11 uvedeného zákona uplatnit (prosadit) jako předpoklad, bez jehož splnění (tedy bez složení jistoty) se taková osoba „novým“ žalobcem stát nemůže"
+- *NS* [29 Cdo 3681/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67051F16004FB28AC1257F860025EDF1?openDocument) — 26. 1. 2016, kat. A
+  > „S účinností od 1. 1. 2014 soud rozhoduje o návrhu žalovaného na složení jistoty na náklady řízení podle § 11 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, a to i v řízeních zahájených před uvedeným datem. Umožňuje-li právo cizího státu uložení povinnosti složit jistotu na náklady řízení zahraničním žalobcům, aniž složení jistoty vylučuje pro případ materiální vzájemnosti [tedy aniž obsahuje ustanovení obdobné § 11 odst. 2 písm. b) zákona č. 91/2012 Sb., o mezinárodním právu soukromém], nelze z pouhé skutečnosti, že není známo, zda soudy tohoto státu od státních občanů České republiky či od českých právnických osob složení jistoty požadují, usuzovat na splnění podmínky materiální vzájemnosti podle § 11 odst. 2 písm. b) zákona č. 91/2012 Sb"
+
 #### Cautio iudicatum solvi — institut a jeho účel
 
 § 11 zakotvuje historický institut *cautio iudicatum solvi* — **jistotu na náklady řízení** ukládanou cizímu žalobci. Účelem je ochrana **žalovaného** před situací, kdy by cizí žalobce zahájil řízení v ČR, prohrál ho, a poté by bylo obtížné v jeho státě vykonat rozhodnutí o náhradě nákladů řízení. Jistota slouží jako záruka, že náklady řízení budou v případě prohry žalobce uhrazeny.
@@ -743,6 +752,11 @@ zda v daném státě je či není vzájemnost zaručena, a vystaví **sdělení*
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 2432/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30AFF036EB44B2FEC12586F600188108?openDocument) — 1. 4. 2021, kat. A
+  > „Novému projednání návrhu na uznání již dříve na území České republiky uznaného cizozemského rozhodnutí brání v souladu s § 15 odst. 1 písm. c) zákona č. 91/2012 Sb., o mezinárodním právu soukromém, překážka věci rozsouzené"
+
 #### Pojem cizího rozhodnutí — legislativní zkratka
 
 § 14 zavádí **legislativní zkratku „cizí rozhodnutí"**, která zahrnuje široký okruh aktů:
@@ -798,6 +812,11 @@ Rozhodnutí se v právním kontextu dělí:
 > *(2) K překážce uvedené v odstavci 1 písm. d) se přihlédne, jen jestliže se jí dovolá účastník řízení, vůči němuž má být cizí rozhodnutí uznáno. To platí i o překážkách uvedených v odstavci 1 písm. b) a c), ledaže je jejich existence orgánu rozhodujícímu o uznání jinak známa.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 2432/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30AFF036EB44B2FEC12586F600188108?openDocument) — 1. 4. 2021, kat. A
+  > „Novému projednání návrhu na uznání již dříve na území České republiky uznaného cizozemského rozhodnutí brání v souladu s § 15 odst. 1 písm. c) zákona č. 91/2012 Sb., o mezinárodním právu soukromém, překážka věci rozsouzené"
 
 #### Šest negativních důvodů neuznání (odst. 1)
 
@@ -865,6 +884,13 @@ Logika je následující: u **dispozitivních důvodů** (b, c, d) — které lz
 > *(5) Na základě cizího rozhodnutí o majetkových věcech, které splňuje podmínky pro uznání podle tohoto zákona, lze nařídit výkon tohoto rozhodnutí rozhodnutím českého soudu, které je třeba odůvodnit.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 2432/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30AFF036EB44B2FEC12586F600188108?openDocument) — 1. 4. 2021, kat. A
+  > „Novému projednání návrhu na uznání již dříve na území České republiky uznaného cizozemského rozhodnutí brání v souladu s § 15 odst. 1 písm. c) zákona č. 91/2012 Sb., o mezinárodním právu soukromém, překážka věci rozsouzené"
+- *NS* [20 Cdo 1349/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED14E2C459691318C12580270031406F?openDocument) — 1. 7. 2016, kat. A
+  > „Podléhá-li výkon cizího rozhodnutí úpravě podle ustanovení § 14 až § 16 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, lze jej provést jen soudním výkonem rozhodnutí, přičemž exekuci prostřednictvím zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, lze v takovém případě provést pouze podle cizího rozhodnutí, jež bylo uznáno na základě zvláštního rozhodnutí českého soudu podle ustanovení § 16 odst. 2 zákona č. 91/2012 Sb., tedy rozsudkem, který je třeba odůvodnit"
 
 #### Dva režimy uznání — incidenční vs. samostatné
 
