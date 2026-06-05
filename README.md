@@ -27,6 +27,10 @@ ZMPS se aplikuje **subsidiárně** k unijním nařízením (Brussels, Rome regim
 
 Tento komentář **není autoritativním právním stanoviskem**. Pro praktickou aplikaci je nutné ověřit aktuální unijní nařízení a mezinárodní smlouvy (oblast se rychle vyvíjí — viz Brusel II ter 2019/1111 nahradil 2201/2003).
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
