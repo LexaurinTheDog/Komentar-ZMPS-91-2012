@@ -1164,8 +1164,8 @@ Pro exekuční titul podle exekučního řádu (zák. č. 120/2001 Sb.) je cizí
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 3681/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67051F16004FB28AC1257F860025EDF1?openDocument) — 26. 1. 2016, kat. A
-  > „S účinností od 1. 1. 2014 soud rozhoduje o návrhu žalovaného na složení jistoty na náklady řízení podle § 11 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, a to i v řízeních zahájených před uvedeným datem. Umožňuje-li právo cizího státu uložení povinnosti složit jistotu na náklady řízení zahraničním žalobcům, aniž složení jistoty vylučuje pro případ materiální vzájemnosti [tedy aniž obsahuje ustanovení obdobné § 11 odst. 2 písm. b) zákona č. 91/2012 Sb., o mezinárodním právu soukromém], nelze z pouhé skutečnosti, že není známo, zda soudy tohoto státu od státních občanů České republiky či od českých právnických osob složení jistoty požadují, usuzovat na splnění podmínky materiální vzájemnosti podle § 11 odst. 2 písm. b) zákona č. 91/2012 Sb"
+- *NS* [29 Cdo 3681/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67051F16004FB28AC1257F860025EDF1?openDocument) — kat. A, 26. 1. 2016
+  > „S účinností od 1. 1. 2014 soud rozhoduje o návrhu žalovaného na složení jistoty na náklady řízení podle § 11 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, a to i v řízeních zahájených před uvedeným datem. …"
 
 #### Dvojí intertemporální princip (odst. 1)
 

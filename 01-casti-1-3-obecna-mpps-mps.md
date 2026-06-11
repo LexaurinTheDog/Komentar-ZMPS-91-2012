@@ -622,12 +622,12 @@ Pro občany členských států EU a států EHS (Norsko, Island, Lichtenštejns
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [32 Cdo 594/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF81E7FAE8A09D57C125842300181130?openDocument) — 23. 4. 2019, kat. A
-  > „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb"
-- *NS* [29 Cdo 5689/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/76273E13CCE2FDF2C125838900220EA1?openDocument) — 31. 10. 2018, kat. A
-  > „Má-li se subjekt, po kterém by jinak bylo možno požadovat (postupem podle § 11 zákona č. 91/2012 Sb.) složení zálohy při podání žaloby, stát „novým“ žalobcem až v důsledku rozhodnutí soudu o návrhu původního žalobce dle § 107a o. s. ř., může se postup podle § 11 uvedeného zákona uplatnit (prosadit) jako předpoklad, bez jehož splnění (tedy bez složení jistoty) se taková osoba „novým“ žalobcem stát nemůže"
-- *NS* [29 Cdo 3681/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67051F16004FB28AC1257F860025EDF1?openDocument) — 26. 1. 2016, kat. A
+- *NS* [29 Cdo 3681/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/67051F16004FB28AC1257F860025EDF1?openDocument) — kat. A, 26. 1. 2016
   > „S účinností od 1. 1. 2014 soud rozhoduje o návrhu žalovaného na složení jistoty na náklady řízení podle § 11 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, a to i v řízeních zahájených před uvedeným datem. Umožňuje-li právo cizího státu uložení povinnosti složit jistotu na náklady řízení zahraničním žalobcům, aniž složení jistoty vylučuje pro případ materiální vzájemnosti [tedy aniž obsahuje ustanovení obdobné § 11 odst. 2 písm. b) zákona č. 91/2012 Sb., o mezinárodním právu soukromém], nelze z pouhé skutečnosti, že není známo, zda soudy tohoto státu od státních občanů České republiky či od českých právnických osob složení jistoty požadují, usuzovat na splnění podmínky materiální vzájemnosti podle § 11 odst. 2 písm. b) zákona č. 91/2012 Sb"
+- *NS* [29 Cdo 5689/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/76273E13CCE2FDF2C125838900220EA1?openDocument) — kat. A, 31. 10. 2018
+  > „Má-li se subjekt, po kterém by jinak bylo možno požadovat (postupem podle § 11 zákona č. 91/2012 Sb.) složení zálohy při podání žaloby, stát „novým“ žalobcem až v důsledku rozhodnutí soudu o návrhu původního žalobce dle § 107a o. s. ř., může se postup podle § 11 uvedeného zákona uplatnit (prosadit) jako předpoklad, bez jehož splnění (tedy bez složení jistoty) se taková osoba „novým“ žalobcem stát nemůže"
+- *NS* [32 Cdo 594/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF81E7FAE8A09D57C125842300181130?openDocument) — kat. A, 23. 4. 2019
+  > „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb"
 
 #### Cautio iudicatum solvi — institut a jeho účel
 
@@ -673,6 +673,13 @@ Občanům členských států EU a EHS **nelze** uložit povinnost složit jisto
 > *(2) Pokud listinu vydanou v cizině nelze opatřit předepsaným ověřením v souladu s mezinárodními zvyklostmi a příslušný zastupitelský úřad České republiky nemá pochybnosti o její pravosti, opatří listinu doložkou, že zastupitelský úřad nemá pochybnosti o pravosti této listiny.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 84/2024 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736835) — 25. 11. 2024
+  > „Zákon o mezinárodním právu soukromém tedy počítá se situacemi, kdy má být v České republice užito listiny vydané notářem v cizině, tedy „zahraničním notářem“, a za tímto účelem jí za stanovených podmínek přiznává účinky veřejné listiny v České republice. S užitím listin vydaných „zahraničními notáři“ v České republice počítá tento zákon i na dalších místech (srov. § 4, § 14, § 49 odst. 4)"
+- *NSS* [6 Af 5/2020 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702153) — 15. 6. 2022
+  > „Z dikce citovaného ustanovení vyplývá, že vyvratitelná domněnka pravosti veřejných listin je aplikovatelná pouze na veřejné listiny vydané orgány České republiky. Pro listiny vydané soudem, notářem nebo úřadem v cizině, které platí v místě, kde byly vydány, za veřejnou listinu, se aplikuje ust. § 12 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, ve znění pozdějších předpisů. Dle něj má taková listina důkazní moc veřejné listiny v České republice, jestliže je opatřena předepsaným ověřením"
 
 #### Cizí veřejná listina — pojem
 
@@ -815,7 +822,7 @@ Rozhodnutí se v právním kontextu dělí:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 2432/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30AFF036EB44B2FEC12586F600188108?openDocument) — 1. 4. 2021, kat. A
+- *NS* [20 Cdo 2432/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30AFF036EB44B2FEC12586F600188108?openDocument) — kat. A, 1. 4. 2021
   > „Novému projednání návrhu na uznání již dříve na území České republiky uznaného cizozemského rozhodnutí brání v souladu s § 15 odst. 1 písm. c) zákona č. 91/2012 Sb., o mezinárodním právu soukromém, překážka věci rozsouzené"
 
 #### Šest negativních důvodů neuznání (odst. 1)
@@ -887,9 +894,7 @@ Logika je následující: u **dispozitivních důvodů** (b, c, d) — které lz
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 2432/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/30AFF036EB44B2FEC12586F600188108?openDocument) — 1. 4. 2021, kat. A
-  > „Novému projednání návrhu na uznání již dříve na území České republiky uznaného cizozemského rozhodnutí brání v souladu s § 15 odst. 1 písm. c) zákona č. 91/2012 Sb., o mezinárodním právu soukromém, překážka věci rozsouzené"
-- *NS* [20 Cdo 1349/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED14E2C459691318C12580270031406F?openDocument) — 1. 7. 2016, kat. A
+- *NS* [20 Cdo 1349/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED14E2C459691318C12580270031406F?openDocument) — kat. A, 1. 7. 2016
   > „Podléhá-li výkon cizího rozhodnutí úpravě podle ustanovení § 14 až § 16 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, lze jej provést jen soudním výkonem rozhodnutí, přičemž exekuci prostřednictvím zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, lze v takovém případě provést pouze podle cizího rozhodnutí, jež bylo uznáno na základě zvláštního rozhodnutí českého soudu podle ustanovení § 16 odst. 2 zákona č. 91/2012 Sb., tedy rozsudkem, který je třeba odůvodnit"
 
 #### Dva režimy uznání — incidenční vs. samostatné
@@ -1294,6 +1299,11 @@ Klasická paralela: čl. 9 odst. 3 nař. Řím I umožňuje aplikaci kogentních
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Afs 69/2017 - 75](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646658) — 12. 6. 2018
+  > „Lze odkázat zejména na § 26 odst. 2 zákona č. 91/2012 Sb., o mezinárodním právu soukromém, podle nějž mají zahraniční právnické osoby v oblasti svých osobních a majetkových práv, pokud tímto zákonem nebo jiným právním předpisem není stanoveno něco jiného, stejná práva a stejné povinnosti jako české právnické osoby. Ostatní předpisy proto už mezi českou a zahraniční právnickou osobou nijak nerozlišují, pokud pro to není výjimečně důvod. To platí i pro oblast práva veřejného"
+
 #### Legální definice „cizince" a „zahraniční právnické osoby" (odst. 1)
 
 ZMPS používá legislativní zkratky:
@@ -1361,6 +1371,11 @@ Tyto oblasti mají specifickou regulaci postavení cizinců, která může být 
 > *(4) Je-li někdo žadatelem o udělení mezinárodní ochrany, azylantem nebo požívá doplňkové ochrany nebo je bezdomovcem podle jiného právního předpisu nebo mezinárodní smlouvy, řídí se jeho osobní postavení podle ustanovení mezinárodních smluv upravujících právní postavení uprchlíků a právní postavení osob bez státní příslušnosti.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Ad 3/2023 - 91](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721628) — 5. 4. 2024
+  > „Tento zákon je totiž předpisem, který se týká výlučně mezinárodního práva soukromého, tedy se aplikuje na soukromoprávní vztahy s mezinárodním prvkem a řízení o soukromoprávních vztazích s mezinárodním prvkem (viz § 1 tohoto zákona). … Z tohoto důvodu je tedy třeba odmítnout veškeré žalobní námitky, které odkazují na určitá ustanovení zákona č. 91/2012 Sb. (zejm. na § 2, § 26 a § 28 odst. 1 a 3), neboť tento zákon se v případě posouzení vzniku nároku žalobce na starobní důchod, který je veřejným subjektivním právem, vůbec neaplikuje"
 
 #### Problém vícenásobné a neurčité státní příslušnosti
 

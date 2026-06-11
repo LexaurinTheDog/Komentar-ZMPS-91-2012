@@ -89,6 +89,11 @@ Odst. 3 zachovává **tradiční vázanost jména na státní občanství** (*le
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 62/2025 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746227) — 21. 10. 2025
+  > „rozhodné právo při převodu akcií obchodní společnosti se neřídí nařízením Evropského parlamentu a Rady (ES) č. 593/2008 ze dne 17. 6. 2008 o právu rozhodném pro smluvní a závazkové vztahy (Řím I) s ohledem na výluku obsaženou v čl. 1 odst. 2 písm. f) tohoto nařízení a vzhledem k tomu, že soudu není známa žádná relevantní mezinárodní smlouva upravující tuto otázku, je podle § 30 odst. 1 zákona č. 91/2012 Sb. … rozhodným právem to právo, podle kterého společnost … vznikla"
+
 #### Inkorporační teorie — *lex incorporationis* (odst. 1)
 
 Odst. 1 přijímá **inkorporační teorii**: osobní statut právnické osoby se řídí právem státu, **podle něhož právnická osoba vznikla** (typicky státu, podle jehož právního řádu byla zapsána do obchodního či obdobného rejstříku). Tím se ZMPS staví na stranu většinového proudu kontinentálního práva po judikatuře SDEU (zejména *C-212/97 Centros* 1999, *C-208/00 Überseering* 2002, *C-167/01 Inspire Art* 2003), která prakticky vyloučila kolizní aplikaci **sídelní teorie** (*Sitztheorie*) pro společnosti se sídlem v jiných členských státech EU — sídelní teorie by byla v rozporu se svobodou usazování (čl. 49 a 54 SFEU).
@@ -1184,6 +1189,11 @@ Odst. 3 výslovně **vylučuje zpětný a další odkaz** — pravidlo se apliku
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 230/2017 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646556) — 30. 5. 2018
+  > „Nejvyšší správní soud souhlasí s právním názorem krajského soudu, podle něhož správní orgány nemohly stěžovatelům vyhovět, pokud stěžovatelé požadovali, aby bylo do příslušné matriční knihy zapsáno manželství, které uzavřeli v zahraničí. Správní orgán prvního stupně byl oprávněn zapsat jimi uzavřený sňatek toliko jako registrované partnerství, neboť jen tuto formu uznává česká právní úprava jako formu trvalého právně zakotveného soužití dvou osob stejného pohlaví"
+
 #### Jednoduchá kolizní úprava — *lex loci celebrationis*
 
 § 67 představuje **jednotnou a jednoduchou kolizní úpravu** registrovaného partnerství: VŠECHNY aspekty (existence, způsobilost, forma, účinky, zrušení, osobní i majetkové poměry) se řídí **právem státu, v němž bylo partnerství uzavřeno**. Tato monolithická vazba má dva důvody:
@@ -1261,6 +1271,11 @@ Automatické uznání rozhodnutí pocházejících:
 > *(2) Věcná práva k plavidlům a letadlům, která se zapisují do veřejného rejstříku, jejich vznik a zánik se řídí právním řádem státu, v jehož působnosti je tento rejstřík veden.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 90/2025 - 64](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744522) — 26. 8. 2025
+  > „Volbou práva, kterým se podle vůle stran vyjádřené ve smlouvě má spravovat smluvní závazkový vztah, nelze vyloučit zvláštní pravidla upravující rozhodné právo pro otázky věcných práv. Uvedené platí tím spíše v případě věcných práv k věcem zapisovaným do veřejných seznamů. … Určení věcného statutu … podléhá zpravidla zvláštním normám. V posuzované věci je takovou normou § 69 zákona o mezinárodním právu soukromém, který provádí výše citované mezinárodní závazky České republiky"
 
 #### Klasická vazba *lex rei sitae* (odst. 1)
 
@@ -1388,8 +1403,8 @@ Druhá věta § 72 představuje **ochranu držitele**: i když podle počátečn
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 1929/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ED9315A3981ABE0C12589BA002C1F73?openDocument) — 20. 12. 2022, kat. A
-  > „Ve smyslu § 73 zákona č. 91/2012 Sb. (ve znění pozdějších předpisů) se otázky vzniku, trvání a zániku svěřenského fondu a jeho správy primárně posuzují podle právního řádu určeného zakladatelem ve statutu svěřenského fondu, popřípadě v jiné listině plnící obdobnou funkci vyžadované zakladatelem určeným právním řádem. Pouze tehdy, neurčí-li zakladatel, jakým právem se svěřenský fond řídí, anebo nelze-li takového právního řádu použít [např. proto, že takový institut neupravuje, nebo proto, že by se účinky jeho použití zjevně příčily veřejnému pořádku, anebo proto, že by se to jevilo nepřiměřeným a odporujícím rozumnému a spravedlivému uspořádání vztahu účastníků (§ 4 a § 24 odst. 1 uvedeného zákona)], se použije takový právní řád, s nímž svěřenský fond nejúžeji souvisí. Při posouzení, s jakým právním řádem svěřenský fond nejúžeji souvisí, vezme soud v úvahu zejména kritéria…"
+- *NS* [27 Cdo 1929/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0ED9315A3981ABE0C12589BA002C1F73?openDocument) — kat. A, 20. 12. 2022
+  > „Ve smyslu § 73 zákona č. 91/2012 Sb. (ve znění pozdějších předpisů) se otázky vzniku, trvání a zániku svěřenského fondu a jeho správy primárně posuzují podle právního řádu určeného zakladatelem ve statutu svěřenského fondu, popřípadě v jiné listině plnící obdobnou funkci vyžadované zakladatelem určeným právním řádem. Pouze tehdy, neurčí-li zakladatel, jakým právem se svěřenský fond řídí, anebo nelze-li takového právního řádu použít [např. proto, že takový institut neupravuje, nebo proto, že by se účinky jeho použití zjevně příčily veřejnému pořádku, anebo proto, že by se to jevilo nepřiměřeným a odporujícím rozumnému a spravedlivému uspořádání vztahu účastníků (§ 4 a § 24 odst. 1 uvedeného zákona)], se použije takový právní řád, s nímž svěřenský fond nejúžeji souvisí. Při posouzení, s jakým právním řádem svěřenský fond nejúžeji souvisí, vezme soud v úvahu zejména kritéria demonstrativně vypočtená v § 73 odst. 2 uvedeného zákona"
 
 #### Otevření českého práva trustům — § 73 jako vstupní brána
 
