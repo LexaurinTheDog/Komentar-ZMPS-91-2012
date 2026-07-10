@@ -74,6 +74,10 @@ Aktuální znění k **23. 9. 2023** (zdroj: lokální výtah z e-Sbírky; konso
 | 2012 | 91/2012 Sb. | Přijetí ZMPS, paralelně s OZ 89/2012; účinnost 1. 1. 2014 |
 | 2023 | 416/2023 Sb. | Drobná novela |
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
